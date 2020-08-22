@@ -1,0 +1,25 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="nanoseconds" />
+      <item value="high-resolution" />
+      <item value="resolution" />
+      <item value="good" />
+      <item value="new" />
+      <item value="Error flushing statements. Cause: java.lang.ArrayIndexOutOfBoundsException: 4001" />
+      <item value="Failed to deploy '&lt;unknown&gt; Dockerfile: drug-knowledge/Dockerfile': com.github.dockerjava.api.exception.InternalServerErrorException: {&quot;message&quot;:&quot;invalid volume specification: '8082:8082:rw': invalid mount config for type \&quot;volume\&quot;: invalid mount path: '8082' mount path must be absolute&quot;}" />
+      <item value="SQL Integrity Constraint Violation Exception" />
+      <item value="Data Integrity Violation Exception" />
+      <item value="Consider revisiting the entries above or defining a bean of type 'org.apache.ibatis.session.SqlSessionFactory' in your configuration." />
+      <item value="药品知识库" />
+      <item value="药品说明书" />
+      <item value="User" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="12" />
+      </map>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,15 @@
+<application>
+  <component name="RemoteServers">
+    <remote-server name="DockerAliyun" type="docker">
+      <configuration>
+        <option name="apiUrl" value="tcp://47.98.211.175:2375" />
+      </configuration>
+    </remote-server>
+    <remote-server name="DockerLocalHost" type="docker">
+      <configuration>
+        <option name="apiUrl" value="unix:///var/run/docker.sock" />
+        <option name="certificatesPath" />
+      </configuration>
+    </remote-server>
+  </component>
+</application>
